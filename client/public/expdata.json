@@ -24,11 +24,43 @@
     "rating": "34"
   },
   {
+    "title": "Sky Diving like never before",
+    "location": "Dubai",
+    "image": "https://i.ibb.co/2jb4bvR/Experience3.jpg",
+    "price": 157,
+    "host": "Max Mars",
+    "rating": "43"
+  },
+  {
     "title": "See Sunset in the beach",
     "location": "Rangamati",
     "image": "https://i.ibb.co/bB98pjR/Experience1.jpg",
     "price": 98,
     "host": "John Doe",
     "rating": "97"
+  },
+  {
+    "title": "Sky Diving like never before",
+    "location": "Dubai",
+    "image": "https://i.ibb.co/2jb4bvR/Experience3.jpg",
+    "price": 157,
+    "host": "Max Mars",
+    "rating": "43"
+  },
+  {
+    "title": "Sky Diving like never before",
+    "location": "Dubai",
+    "image": "https://i.ibb.co/2jb4bvR/Experience3.jpg",
+    "price": 157,
+    "host": "Max Mars",
+    "rating": "43"
+  },
+  {
+    "title": "Sky Diving like never before",
+    "location": "Dubai",
+    "image": "https://i.ibb.co/2jb4bvR/Experience3.jpg",
+    "price": 157,
+    "host": "Max Mars",
+    "rating": "43"
   }
 ]
